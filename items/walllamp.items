@@ -1,0 +1,1 @@
+Switch WallLamp {mqtt=">[mosquitto:/sonoff1/gpio/12:command:ON:1],>[mosquitto:/sonoff1/gpio/12:command:OFF:0]"}

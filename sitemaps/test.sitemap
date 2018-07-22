@@ -1,0 +1,12 @@
+sitemap test label="My home automation" {
+   Frame {
+       Switch item=WallLamp
+   }
+   Frame {
+       Switch item=FirstLamp
+   }
+   Frame {
+        Default item=Music
+        Slider item=Volume icon=soundvolume
+   }
+}

@@ -1,0 +1,2 @@
+Dimmer Volume { channel="chromecast:audio:myCC:volume" }
+Player Music { channel="chromecast:audio:myCC:control" }
