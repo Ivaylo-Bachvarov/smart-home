@@ -1,1 +1,1 @@
-Switch FirstLamp {mqtt=">[mosquitto:/cmnd/sonofftouch/power:command:ON:1],>[mosquitto:/cmnd/sonofftouch/power:command:OFF:0]"}
+Switch FirstLamp {mqtt=">[mosquitto:cmnd/sonofftouch/power:command:ON:1],>[mosquitto:cmnd/sonofftouch/power:command:OFF:0]"}
